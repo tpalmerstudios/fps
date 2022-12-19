@@ -1,3 +1,9 @@
 A first person shooter built on SDL2--from scratch
-Test
+
+I will start by creating an overview of how the project works
+Using pseudocode. Then I will add in SDL2 or similar.
+Then I will translate the pseudo into a semi workable Graphic program.
+Finally I will add physics and geometry
+
+(This is a test btw.)
 
