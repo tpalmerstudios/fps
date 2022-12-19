@@ -1,0 +1,39 @@
+player
+	longitude
+	lattitude
+	altitude
+	animation
+	level
+	strength
+	
+camera
+	longitude
+	lattitude
+	altitude
+	horizontal angle
+	vertical angle
+	diagonal angle
+current map
+	area number
+	area array
+inventory
+	size
+	item array
+(rng assets and random events)
+
+location
+	weather
+	brightness
+	visibility
+	moon position
+	moon phase
+	sun position
+weapon
+	visibility (int-0 for holstered-1 for hip fire-2 for aimed)
+	ammunition
+	type
+	special effects array
+	damage
+	weight
+	condition
+	level

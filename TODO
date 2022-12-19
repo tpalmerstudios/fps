@@ -1,0 +1,10 @@
+Map will be contained in a SQL database
+each item will have a xyz as well as dimensions. they waill also contain angle
+and links to texture assets
+they will also contain links to areas it is contained to and events they are part of
+
+player has xyz. angle of looking across xy and z planes.
+
+i must take into account distace formula for a 3rd dimension
+
+load squares that are well too large for 10 seconds of movement then load new squares when coordinates exceed them
